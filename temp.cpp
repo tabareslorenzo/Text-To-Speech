@@ -33,7 +33,7 @@ int main()
 {
       cout << "Enter filename" << endl;
       string file;
-      string test ="happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy";
+      string test =" ";
       string type;
 
       //PoDoFo::PdfMemDocument pdf("mydoc.pdf");
